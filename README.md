@@ -1,2 +1,3 @@
 # ztm.backgroundGenerator.git.io
-webpage background color generator exercise
+background color generator exercise
+## Live demo: https://hashtag47.github.io/ztm.backgroundGenerator.git.io/
